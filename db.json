@@ -1,281 +1,31 @@
 {
     "users": [
       {
-        "id": 1,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com",
-        "type":"student"
+         "username":"raj",
+         "email":"raj@gmail.com",
+         "password":"raj"
+      }
+    ],
+     "books":[
+      {
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling",
+        "genre": "fiction",
+        "edition": "2021",
+        "publisher": "Bloomsbury",
+        "cost": 1299,
+        "borrowed": false
       },
       {
-        "id": 2,
-        "name": "Gail Newbatt",
-        "age": 53,
-        "email": "gnewbatt1@un.org",
-        "type":"teacher"
-      },
-      {
-        "id": 3,
-        "name": "Walliw Wilstead",
-        "age": 49,
-        "email": "wwilstead2@tripadvisor.com"
-        ,"type":"student"
-      },
-      {
-        "id": 4,
-        "name": "Abran Proback",
-        "age": 29,
-        "email": "aproback3@theglobeandmail.com",
-        "type":"teacher"
-      },
-      {
-        "id": 5,
-        "name": "Roda Chappelow",
-        "age": 31,
-        "email": "rchappelow4@oaic.gov.au",
-        "type":"student"
-      },
-      {
-        "id": 6,
-        "name": "Karney Wylie",
-        "age": 22,
-        "email": "kwylie5@miitbeian.gov.cn",
-        "type":"student"
-      },
-      {
-        "id": 7,
-        "name": "Cammi Pimbley",
-        "age": 63,
-        "email": "cpimbley6@nyu.edu",
-        "type":"teacher"
-      },
-      {
-        "id": 8,
-        "name": "Gavra Manning",
-        "age": 43,
-        "email": "gmanning7@lycos.com",
-        "type":"student"
-      },
-      {
-        "id": 9,
-        "name": "Zachary Seward",
-        "age": 45,
-        "email": "zseward8@oracle.com",
-        "type":"teacher"
-      },
-      {
-        "id": 10,
-        "name": "Chucho Ner",
-        "age": 20,
-        "email": "cnorssister9@mayoclinic.com"
-        ,"type":"student"
-      },{
-        "id": 11,
-        "name": "Gertrudis Taterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com",
-        "type":"student"
-      },
-      {
-        "id": 12,
-        "name": "Gail Newtt",
-        "age": 53,
-        "email": "gnewbatt1@un.org",
-        "type":"teacher"
-      },
-      {
-        "id": 13,
-        "name": "Walliw Wtead",
-        "age": 49,
-        "email": "wwilstead2@tripadvisor.com"
-        ,"type":"student"
-      },
-      {
-        "id": 14,
-        "name": "Abran Prck",
-        "age": 29,
-        "email": "aproback3@theglobeandmail.com",
-        "type":"teacher"
-      },
-      {
-        "id": 15,
-        "name": "Roda Celow",
-        "age": 31,
-        "email": "rchappelow4@oaic.gov.au",
-        "type":"student"
-      },
-      {
-        "id": 16,
-        "name": "Karney Wie",
-        "age": 22,
-        "email": "kwylie5@miitbeian.gov.cn",
-        "type":"student"
-      },
-      {
-        "id": 17,
-        "name": "Cammi bley",
-        "age": 63,
-        "email": "cpimbley6@nyu.edu",
-        "type":"teacher"
-      },
-      {
-        "id": 18,
-        "name": "Gavra Mang",
-        "age": 43,
-        "email": "gmanning7@lycos.com",
-        "type":"student"
-      },
-      {
-        "id": 19,
-        "name": "Zachary Se",
-        "age": 45,
-        "email": "zseward8@oracle.com",
-        "type":"teacher"
-      },
-      {
-        "id": 10,
-        "name": "Chucho Nor",
-        "age": 20,
-        "email": "cnorssister9@mayoclinic.com"
-        ,"type":"student"
-      },{
-        "id": 21,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com",
-        "type":"student"
-      },
-      {
-        "id": 22,
-        "name": "Gail Newbatt",
-        "age": 53,
-        "email": "gnewbatt1@un.org",
-        "type":"teacher"
-      },
-      {
-        "id": 23,
-        "name": "Walliw Wilstead",
-        "age": 49,
-        "email": "wwilstead2@tripadvisor.com"
-        ,"type":"student"
-      },
-      {
-        "id": 24,
-        "name": "Abran Proback",
-        "age": 29,
-        "email": "aproback3@theglobeandmail.com",
-        "type":"teacher"
-      },
-      {
-        "id": 25,
-        "name": "Roda Chappelow",
-        "age": 31,
-        "email": "rchappelow4@oaic.gov.au",
-        "type":"student"
-      },
-      {
-        "id": 26,
-        "name": "Karney Wylie",
-        "age": 22,
-        "email": "kwylie5@miitbeian.gov.cn",
-        "type":"student"
-      },
-      {
-        "id": 27,
-        "name": "Cammi Pimbley",
-        "age": 63,
-        "email": "cpimbley6@nyu.edu",
-        "type":"teacher"
-      },
-      {
-        "id": 28,
-        "name": "Gavra Manning",
-        "age": 43,
-        "email": "gmanning7@lycos.com",
-        "type":"student"
-      },
-      {
-        "id": 29,
-        "name": "Zachary Seward",
-        "age": 45,
-        "email": "zseward8@oracle.com",
-        "type":"teacher"
-      },
-      {
-        "id": 30,
-        "name": "Chucho Ner",
-        "age": 20,
-        "email": "cnorssister9@mayoclinic.com"
-        ,"type":"student"
-      },{
-        "id": 31,
-        "name": "Gertrudis Taterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com",
-        "type":"student"
-      },
-      {
-        "id": 32,
-        "name": "Gail Newtt",
-        "age": 53,
-        "email": "gnewbatt1@un.org",
-        "type":"teacher"
-      },
-      {
-        "id": 33,
-        "name": "Walliw Wtead",
-        "age": 49,
-        "email": "wwilstead2@tripadvisor.com"
-        ,"type":"student"
-      },
-      {
-        "id": 34,
-        "name": "Abran Prck",
-        "age": 29,
-        "email": "aproback3@theglobeandmail.com",
-        "type":"teacher"
-      },
-      {
-        "id": 35,
-        "name": "Roda Celow",
-        "age": 31,
-        "email": "rchappelow4@oaic.gov.au",
-        "type":"student"
-      },
-      {
-        "id": 36,
-        "name": "Karney Wie",
-        "age": 22,
-        "email": "kwylie5@miitbeian.gov.cn",
-        "type":"student"
-      },
-      {
-        "id": 37,
-        "name": "Cammi bley",
-        "age": 63,
-        "email": "cpimbley6@nyu.edu",
-        "type":"teacher"
-      },
-      {
-        "id": 38,
-        "name": "Gavra Mang",
-        "age": 43,
-        "email": "gmanning7@lycos.com",
-        "type":"student"
-      },
-      {
-        "id": 39,
-        "name": "Zachary Se",
-        "age": 45,
-        "email": "zseward8@oracle.com",
-        "type":"teacher"
-      },
-      {
-        "id": 40,
-        "name": "Chucho Nor",
-        "age": 20,
-        "email": "cnorssister9@mayoclinic.com"
-        ,"type":"student"
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": " Potter Stone",
+        "author": " Rowling",
+        "genre": "fiction",
+        "edition": "2020",
+        "publisher": "Bloomsbury",
+        "cost": 1209,
+        "borrowed": false
       }
     ]
   }

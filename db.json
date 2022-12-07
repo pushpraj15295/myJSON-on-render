@@ -27,5 +27,11 @@
         "cost": 1209,
         "borrowed": false
       }
-    ]
+    ],
+    "user":[],
+    "cart":[],
+    "product":[],
+    "data":[]
+    
+
   }

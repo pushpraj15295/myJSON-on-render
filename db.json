@@ -28,8 +28,121 @@
         "borrowed": false
       }
     ],
-    "user":[],
-    "cart":[],
+    "user":[{
+      "username": "r",
+      "avatar": "https://i.pravatar.cc/300",
+      "fullname": "r",
+      "email": "r",
+      "password": "r",
+      "id": 1
+    },
+    {
+      "username": "f",
+      "avatar": "https://i.pravatar.cc/300",
+      "fullname": "f",
+      "email": "f",
+      "password": "f",
+      "id": 2
+    },
+    {
+      "username": "m",
+      "avatar": "https://i.pravatar.cc/300",
+      "fullname": "m",
+      "email": "m",
+      "password": "m",
+      "id": 3
+    },
+    {
+      "username": "j",
+      "avatar": "https://i.pravatar.cc/300",
+      "fullname": "j",
+      "email": "j",
+      "password": "j",
+      "id": 4
+    },
+    {
+      "username": "k",
+      "avatar": "https://i.pravatar.cc/300",
+      "fullname": "k",
+      "email": "k",
+      "password": "k",
+      "id": 5
+    },
+    {
+      "username": "kk",
+      "avatar": "https://i.pravatar.cc/300",
+      "fullname": "kk",
+      "email": "kk",
+      "password": "kk",
+      "id": 6
+    },
+    {
+      "username": "l",
+      "avatar": "https://i.pravatar.cc/300",
+      "fullname": "l",
+      "email": "l",
+      "password": "l",
+      "id": 7
+    },
+    {
+      "username": "c",
+      "avatar": "https://i.pravatar.cc/300",
+      "fullname": "c",
+      "email": "c",
+      "password": "c",
+      "id": 8
+    },
+    {
+      "username": "u",
+      "avatar": "https://i.pravatar.cc/300",
+      "fullname": "u",
+      "email": "u",
+      "password": "u",
+      "id": 9
+    },
+    {
+      "username": "y",
+      "avatar": "https://i.pravatar.cc/300",
+      "fullname": "y",
+      "email": "y",
+      "password": "y",
+      "id": 10
+    }],
+    "cart":[
+      {
+      "mess": "jkhfgadjk gkladlkvjldfjgkljsdf ",
+      "id": 1
+    },
+    {
+      "mess": "jkhfgadjk kaviata",
+      "id": 2
+    },
+    {
+      "mess": "harion",
+      "id": 3
+    },
+    {
+      "mess": "karankjdh fksdjf ",
+      "id": 4
+    },{
+      "mess": "jadu hua kya",
+      "id": 5
+    },
+    {
+      "mess": "jkhfgadjk ",
+      "id": 6
+    },
+    {
+      "mess": "jklghdfkljbkdflkmhfgndghkmdghm",
+      "id": 7
+    },
+    {
+      "mess": " gkladlkvjldf",
+      "id": 8
+    }
+  
+  
+  ],
     "product":[],
     "data":[]
     

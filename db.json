@@ -1,9 +1,10 @@
 {
     "users": [
-      {
+      {  "id":1,
          "username":"raj",
          "email":"raj@gmail.com",
-         "password":"raj"
+         "password":"raj",
+         "rePassword": "raj"
       }
     ],
      "books":[
